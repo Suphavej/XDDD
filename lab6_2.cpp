@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cmath> // ใช้สำหรับฟังก์ชันทางคณิตศาสตร์
+#include <cmath> 
 using namespace std;
 
 // ฟังก์ชันแปลงองศาเป็นเรเดียน
